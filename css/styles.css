@@ -1,0 +1,252 @@
+/*------------------------------------------------------------------
+[ Body ]*/
+
+body {
+  font-family: 'Poppins';
+}
+
+/*------------------------------------------------------------------
+[ a ]*/
+
+a {
+  color: #fff;
+}
+
+/*------------------------------------------------------------------
+[ h1 ]*/
+
+h1 {
+  color: #000;
+  font-size: 3.5rem;
+}
+
+
+/*------------------------------------------------------------------
+[ h6 ]*/
+
+h6 {
+  color: #007BFF;
+}
+
+
+/*------------------------------------------------------------------
+[ Main Navigation ]*/
+
+.main-menu {
+  margin: 15px 15% 10px 0;
+}
+
+.contact-nav-button {
+  margin-top: -5px;
+
+}
+
+.navbar-trans {
+  background: transparent;
+  backdrop-filter: blur(2px);
+ }
+
+
+/*------------------------------------------------------------------
+[ Navigation Logo ]*/
+
+.main-menu-logo {
+  margin-left: 10%;
+  margin-top: 0;
+}
+
+/*------------------------------------------------------------------
+[ Main Title ]*/
+
+.header-title {
+  padding: 15% 10%;
+}
+
+/*------------------------------------------------------------------
+[ Main Description ]*/
+
+.header-title-description {
+  text-align: left;
+  padding: 20px 0;
+}
+
+/*------------------------------------------------------------------
+[ ABOUT US SECTION ]*/
+
+.about-us {
+  padding: 5% 10%;
+  text-align: center;
+  background-color: #f1fcfc;
+}
+
+.about-us-box > h2 {
+font-size: 1.8rem;
+}
+
+.about-us-icons {
+  margin-bottom: 30px;
+}
+
+.bullhorn-icon {
+  color: #f35588;
+}
+
+.bullhorn-icon:hover {
+  color: #4d089a;
+}
+
+.comments-icon {
+  color: #552244;
+}
+
+.comments-icon:hover {
+  color: #baf1a1;
+}
+
+.bullseye-icon {
+  color: #4d089a;
+}
+
+.bullseye-icon:hover {
+  color: #f35588;
+}
+
+.lightbulb-icon {
+  color: #baf1a1;
+}
+
+.lightbulb-icon:hover {
+  color: #552244;
+}
+
+/*------------------------------------------------------------------
+[ END OF ABOUT US ] */
+
+
+
+/*------------------------------------------------------------------
+[ START OF OUR RESULTS SECTION ] */
+
+.counter-bg {
+  position: absolute;
+  z-index: -1;
+}
+
+.our-results {
+  padding: 5% 10%;
+  color: #fff;
+  text-align: center;
+}
+
+
+/*------------------------------------------------------------------
+[ END OF OUR RESULTS SECTION ]*/
+
+
+
+/*------------------------------------------------------------------
+[ START OF PORTFOLIO SECTION ]*/
+
+.portfolio {
+  text-align: center;
+  padding: 5% 10%;
+  background-color: #f1fcfc;
+
+}
+
+.portfolio-description {
+  padding: 3% 20%;
+}
+
+.portfolio-images {
+  padding-bottom: 15px;
+  width: 100%;
+}
+
+/*------------------------------------------------------------------
+[ END OF PORTFOLIO SECTION ]*/
+#testimonials {
+  background-color: #0F161E;
+  color: #fff;
+  text-align: center;
+
+
+}
+
+.testimonial-text {
+  margin: 3% 10%;
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+}
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/*------------------------------------------------------------------
+[ START OF CTA SECTION ]*/
+
+.cta {
+  background-color: #f1fcfc;
+  padding: 5% 10%;
+  color: #000;
+}
+
+/*------------------------------------------------------------------
+[ END OF CTA SECTION ]*/
+
+
+
+/*------------------------------------------------------------------
+[ START OF FOOTER SECTION ]*/
+
+.footer {
+  background-color: #0F161E;
+  padding: 5% 10%;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.company-description {
+  text-align: left;
+  padding-right: 10%;
+}
+
+.footer-titles {
+  padding: 20px 0 5px 0;
+}
+
+.social-icons-footer {
+  margin: 15px 15px 15px 0;
+}
+
+.copyright-line-break {
+  padding-bottom: 3%;
+  border-color: #fff;
+}
+
+.copyright-section {
+  color: #fff;
+  text-align: center;
+  padding: 3%;
+  background-color: #0F161E;
+}
+
+
+/*------------------------------------------------------------------
+[ END OF FOOTER SECTION ]*/
